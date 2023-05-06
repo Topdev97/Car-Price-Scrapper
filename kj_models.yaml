@@ -1,0 +1,1047 @@
+Acura:
+- CL: 375;8
+- CSX: 375;9
+- EL: 375;10
+- ILX: 375;14
+- Integra: 375;15
+- Legend: 375;16
+- MDX: 375;2
+- NSX: 375;3
+- Other: 375;1
+- RDX: 375;11
+- RL: 375;4
+- RLX: 375;12
+- RSX: 375;5
+- SLX: 375;17
+- TL: 375;6
+- TLX: 375;13
+- TSX: 375;7
+- ZDX: 375;18
+AM General:
+- Hummer: 266;2
+- Other: 266;1
+AMC:
+- Other: 2;1
+Alfa Romeo:
+- 4C: 900;29
+- Alfetta: 900;14
+- Giulia: 900;16
+- Milano: 900;31
+- Other: 900;1
+- Spider: 900;21
+- Stelvio: 900;30
+Aston Martin:
+- DB11: 1700;17
+- DB7: 1700;4
+- DB9: 1700;5
+- DBS: 1700;14
+- Other: 1700;1
+- Rapide: 1700;12
+- Vanquish: 1700;7
+- Vantage: 1700;9
+Audi:
+- '100': 1900;2
+- '200': 1900;3
+- '80': 1900;5
+- '90': 1900;6
+- A3: 1900;8
+- A4: 1900;9
+- A4 Allroad: 1900;33
+- A5: 1900;31
+- A6: 1900;10
+- A6 Allroad: 1900;12
+- A7: 1900;34
+- A8: 1900;11
+- e-tron: 1900;50
+- Other: 1900;1
+- Q3: 1900;37
+- Q5: 1900;32
+- Q7: 1900;15
+- Q8: 1900;46
+- quattro: 1900;16
+- R8: 1900;29
+- RS3: 1900;36
+- RS4: 1900;27
+- RS5: 1900;17
+- RS6: 1900;28
+- RS7: 1900;40
+- S3: 1900;19
+- S4: 1900;20
+- S5: 1900;30
+- S6: 1900;21
+- S7: 1900;38
+- S8: 1900;22
+- SQ5: 1900;39
+- TT: 1900;23
+- TT RS: 1900;35
+- TTS: 1900;4
+- V8 quattro: 1900;49
+Austin Healey:
+- '100': 1950;2
+- '3000': 1950;3
+- Other: 1950;1
+BMW:
+- 1 Series: 3500;132
+- 1 Series M: 3500;131
+- 2 Series: 3500;133
+- 3 Series: 3500;134
+- 4 Series: 3500;135
+- 5 Series: 3500;136
+- 6 Series: 3500;137
+- 7 Series: 3500;138
+- 8 Series: 3500;141
+- i Series: 3500;139
+- M Roadster & Coupe: 3500;142
+- M2: 3500;117
+- M3: 3500;45
+- M4: 3500;93
+- M5: 3500;46
+- M6: 3500;47
+- Other: 3500;1
+- X1: 3500;6
+- X2: 3500;129
+- X3: 3500;48
+- X4: 3500;92
+- X5: 3500;49
+- X6: 3500;60
+- X7: 3500;143
+- Z3: 3500;51
+- Z4: 3500;52
+- Z8: 3500;54
+Bentley:
+- Arnage: 3100;2
+- Azure: 3100;3
+- Bentayga: 3100;16
+- Brooklands: 3100;4
+- Continental Flying Spur: 3100;14
+- Continental GT: 3100;11
+- Continental GTC: 3100;12
+- Flying Spur: 3100;15
+- Other: 3100;1
+- Turbo R: 3100;8
+Bricklin:
+- Other: 268;1
+- SV-1: 268;2
+Bugatti:
+- Other: 4350;1
+- Veyron: 4350;3
+Buick:
+- Allure: 4400;12
+- Cascada: 4400;22
+- Century: 4400;2
+- Electra: 4400;3
+- Enclave: 4400;11
+- Encore: 4400;17
+- Envision: 4400;18
+- Grand National: 4400;21
+- La Crosse: 4400;10
+- Le Sabre: 4400;4
+- Lucerne: 4400;13
+- Other: 4400;1
+- Park Avenue: 4400;5
+- Rainier: 4400;20
+- Reatta: 4400;23
+- Regal: 4400;6
+- Rendezvous: 4400;14
+- Riviera: 4400;7
+- Roadmaster: 4400;8
+- Skylark: 4400;9
+- Terraza: 4400;15
+- Verano: 4400;16
+Cadillac:
+- Allante: 4700;2
+- ATS: 4700;13
+- Brougham: 4700;16
+- Catera: 4700;17
+- Cimarron: 4700;18
+- CT5: 4700;26
+- CT6: 4700;14
+- CTS: 4700;4
+- Deville: 4700;5
+- DTS: 4700;19
+- Eldorado: 4700;6
+- ELR: 4700;25
+- Escalade: 4700;7
+- Fleetwood: 4700;8
+- Other: 4700;1
+- Seville: 4700;9
+- Sixty Special: 4700;22
+- SRX: 4700;10
+- STS: 4700;11
+- XLR: 4700;12
+- XT4: 4700;23
+- XT5: 4700;15
+- XT6: 4700;24
+- XTS: 4700;20
+Chevrolet:
+- Astro: 5600;4
+- Avalanche: 5600;5
+- Aveo: 5600;45
+- Bel Air / 150 / 210: 5600;70
+- Beretta: 5600;7
+- Blazer: 5600;8
+- Bolt: 5600;76
+- C/K 1500: 5600;53
+- C/K 2500: 5600;54
+- C/K 3500: 5600;55
+- C10: 5600;46
+- Camaro: 5600;10
+- Caprice: 5600;11
+- Cavalier: 5600;12
+- Chevelle: 5600;43
+- Chevy Van: 5600;14
+- Cheyenne: 5600;52
+- City Express: 5600;77
+- Cobalt: 5600;56
+- Colorado: 5600;48
+- Corsica: 5600;16
+- Corvair: 5600;57
+- Corvette: 5600;58
+- Cruze: 5600;51
+- Cutaway Van: 5600;59
+- El Camino: 5600;20
+- Epica: 5600;49
+- Equinox: 5600;60
+- Express: 5600;18
+- HHR: 5600;50
+- Impala: 5600;23
+- Lumina: 5600;28
+- Malibu: 5600;29
+- Metro: 5600;72
+- Monte Carlo: 5600;62
+- Nova: 5600;6
+- Optra: 5600;73
+- Orlando: 5600;17
+- Other: 5600;1
+- Other Pickups: 5600;75
+- S-10: 5600;34
+- Silverado 1500: 5600;63
+- Silverado 2500: 5600;64
+- Silverado 3500: 5600;65
+- Sonic: 5600;66
+- Spark: 5600;13
+- Sportvan: 5600;71
+- Sprint: 5600;74
+- SSR: 5600;36
+- Suburban: 5600;37
+- T10: 5600;67
+- Tahoe: 5600;39
+- Tracker: 5600;68
+- Trailblazer: 5600;41
+- Traverse: 5600;38
+- Trax: 5600;31
+- Uplander: 5600;69
+- Venture: 5600;44
+- Volt: 5600;19
+Chrysler:
+- '200': 5700;24
+- '300': 5700;25
+- Aspen: 5700;22
+- Cirrus: 5700;29
+- Concorde: 5700;26
+- Cordoba: 5700;30
+- Crossfire: 5700;4
+- Imperial: 5700;23
+- Intrepid: 5700;27
+- Le Baron: 5700;10
+- LHS: 5700;31
+- Neon: 5700;11
+- New Yorker: 5700;12
+- Newport: 5700;32
+- Other: 5700;1
+- Pacifica: 5700;13
+- Prowler: 5700;33
+- PT Cruiser: 5700;14
+- Royal: 5700;34
+- Sebring: 5700;16
+- Town & Country: 5700;28
+- Valiant: 5700;18
+Daewoo:
+- Lanos: 6800;8
+- Leganza: 6800;9
+- Nubira: 6800;13
+- Other: 6800;1
+Daihatsu:
+- Charade: 7000;3
+- Other: 7000;1
+- Rocky: 7000;7
+Datsun:
+- Other: 30002;1
+- Z-Series: 30002;3
+Dodge:
+- Avenger: 7700;18
+- Caliber: 7700;14
+- Caravan: 7700;10
+- Challenger: 7700;8
+- Charger: 7700;2
+- Colt: 7700;33
+- Coronet: 7700;34
+- Dakota: 7700;3
+- Dart: 7700;21
+- Durango: 7700;4
+- Grand Caravan: 7700;5
+- Intrepid: 7700;11
+- Journey: 7700;19
+- Lancer: 7700;22
+- Magnum: 7700;6
+- Neon: 7700;7
+- Nitro: 7700;16
+- Other: 7700;1
+- Other Pickups: 7700;31
+- Power Wagon: 7700;32
+- Ram 1500: 7700;23
+- Ram 2500: 7700;24
+- Ram 3500: 7700;25
+- Ram Van: 7700;26
+- Shadow: 7700;27
+- Spirit: 7700;28
+- Sprinter: 7700;29
+- Stealth: 7700;9
+- Stratus: 7700;20
+- SX 2.0: 7700;30
+- Viper: 7700;12
+Eagle:
+- Other: 30003;1
+- Summit: 30003;4
+- Talon: 30003;2
+- Vision: 30003;3
+Ferrari:
+- '308': 8600;9
+- '328': 8600;10
+- '348': 8600;12
+- '360': 8600;14
+- '456': 8600;18
+- '458': 8600;2
+- '550': 8600;33
+- '575': 8600;21
+- 599 GTB: 8600;37
+- California: 8600;38
+- F12: 8600;13
+- F355: 8600;27
+- F430: 8600;30
+- Mondial: 8600;34
+- Other: 8600;1
+- Testarossa: 8600;36
+Fiat:
+- 124 Spider: 8800;54
+- '500': 8800;9
+- 500C: 8800;49
+- 500L: 8800;48
+- 500X: 8800;53
+- Other: 8800;1
+Ford:
+- Aerostar: 9000;2
+- Aspire: 9000;81
+- Bronco: 9000;3
+- Bronco II: 9000;64
+- C-Max: 9000;52
+- Club Wagon: 9000;82
+- Contour: 9000;83
+- Cougar: 9000;5
+- Crown Victoria: 9000;65
+- E 150: 9000;66
+- E 250: 9000;67
+- E 350: 9000;68
+- E 450: 9000;117
+- E-Series Van: 9000;69
+- EcoSport: 9000;56
+- Edge: 9000;48
+- Escape: 9000;10
+- Escort: 9000;11
+- Excursion: 9000;12
+- Expedition: 9000;13
+- Explorer: 9000;14
+- Explorer Sport: 9000;70
+- Explorer Sport Trac: 9000;71
+- F 100: 9000;63
+- F 150: 9000;16
+- F 150 Raptor: 9000;94
+- F 250: 9000;17
+- F 350: 9000;18
+- F 450: 9000;73
+- F 550: 9000;74
+- F 650: 9000;75
+- F 750: 9000;84
+- F 800: 9000;76
+- Fairlane: 9000;45
+- Fairmont: 9000;77
+- Falcon: 9000;46
+- Fiesta: 9000;19
+- Five Hundred: 9000;85
+- Flex: 9000;53
+- Focus: 9000;20
+- Freestar: 9000;78
+- FreeStyle / Taurus X: 9000;79
+- Fusion: 9000;22
+- Galaxie: 9000;95
+- Grand Marquis: 9000;86
+- Marauder: 9000;87
+- Maverick: 9000;27
+- Model A: 9000;88
+- Model T: 9000;89
+- Mustang: 9000;30
+- Mustang GT: 9000;80
+- Other: 9000;1
+- Other Pickups: 9000;93
+- Probe: 9000;32
+- Ranchero: 9000;90
+- Ranger: 9000;34
+- Taurus: 9000;39
+- Tempo: 9000;91
+- Thunderbird: 9000;40
+- Torino: 9000;92
+- Transit: 9000;42
+- Transit Connect: 9000;51
+- Windstar: 9000;43
+GMC:
+- Acadia: 9900;11
+- C 5500: 9900;24
+- C/K 1500: 9900;14
+- C/K 2500: 9900;15
+- C/K 3500: 9900;16
+- Canyon: 9900;13
+- Envoy: 9900;2
+- Jimmy: 9900;17
+- Other: 9900;1
+- Other Pickups: 9900;23
+- Rally Van: 9900;18
+- Safari: 9900;3
+- Savana: 9900;4
+- Sierra: 9900;5
+- Sierra 1500: 9900;19
+- Sierra 2500: 9900;20
+- Sierra 3500: 9900;21
+- Sonoma: 9900;6
+- Suburban: 9900;22
+- Terrain: 9900;12
+- Typhoon: 9900;8
+- Vandura: 9900;9
+- Yukon: 9900;10
+Genesis:
+- G70: 270;4
+- G80: 270;2
+- G90: 270;3
+- Other: 270;1
+Geo:
+- Metro: 269;2
+- Other: 269;1
+- Tracker: 269;3
+Honda:
+- Accord: 11000;2
+- Accord Crosstour: 11000;27
+- Civic: 11000;3
+- CR-V: 11000;5
+- CR-Z: 11000;24
+- CRX: 11000;6
+- Del Sol: 11000;28
+- Element: 11000;7
+- Fit: 11000;29
+- HR-V: 11000;9
+- Insight: 11000;10
+- Odyssey: 11000;16
+- Other: 11000;1
+- Passport: 11000;30
+- Pilot: 11000;23
+- Prelude: 11000;17
+- Ridgeline: 11000;26
+- S2000: 11000;18
+Hummer:
+- H1: 11050;3
+- H2: 11050;4
+- H3: 11050;5
+- H3T: 11050;2
+- Other: 11050;1
+Hyundai:
+- Accent: 11600;2
+- Azera: 11600;24
+- Elantra: 11600;5
+- Entourage: 11600;42
+- Equus: 11600;43
+- Genesis: 11600;15
+- Genesis Coupe: 11600;44
+- IONIQ: 11600;40
+- Kona: 11600;41
+- Nexo: 11600;49
+- Other: 11600;1
+- Palisade: 11600;53
+- Santa Fe: 11600;19
+- Sonata: 11600;23
+- Sonata Hybrid: 11600;45
+- Tiburon: 11600;46
+- Tucson: 11600;27
+- Veloster: 11600;37
+- VENUE: 11600;54
+- Veracruz: 11600;21
+- XG 300: 11600;47
+- XG 350: 11600;29
+Infiniti:
+- EX35: 11650;8
+- EX37: 11650;5
+- FX: 11650;2
+- G20: 11650;20
+- G25: 11650;21
+- G25x: 11650;22
+- G35: 11650;3
+- G35x: 11650;23
+- G37: 11650;4
+- G37x: 11650;24
+- G38: 11650;37
+- I30: 11650;25
+- I35: 11650;26
+- J30: 11650;27
+- JX: 11650;33
+- M: 11650;28
+- M35: 11650;11
+- M35h: 11650;29
+- M37: 11650;10
+- M37x: 11650;30
+- M45: 11650;31
+- M56: 11650;36
+- Other: 11650;1
+- Q45: 11650;6
+- Q50: 11650;13
+- Q60: 11650;14
+- Q70: 11650;15
+- QX30: 11650;19
+- QX4: 11650;32
+- QX50: 11650;16
+- QX56: 11650;7
+- QX60: 11650;34
+- QX70: 11650;17
+- QX80: 11650;35
+International Harvester: []
+Isuzu:
+- Amigo: 11900;3
+- Hombre: 11900;6
+- Other: 11900;1
+- Rodeo: 11900;7
+- Trooper: 11900;9
+- VehiCROSS: 11900;11
+Jaguar:
+- E-Pace: 12400;8
+- E-Type: 12400;20
+- F-Pace: 12400;6
+- F-Type: 12400;3
+- I-Pace: 12400;18
+- Other: 12400;1
+- S-Type: 12400;7
+- X-Type: 12400;19
+- XE: 12400;4
+- XF: 12400;24
+- XJ: 12400;9
+- XJ12: 12400;10
+- XJ6: 12400;12
+- XJ8: 12400;13
+- XJR: 12400;14
+- XJS: 12400;15
+- XK: 12400;23
+- XK8: 12400;17
+- XKR: 12400;22
+Jeep:
+- Cherokee: 12600;2
+- CJ: 12600;4
+- Commander: 12600;12
+- Commando: 12600;15
+- Compass: 12600;13
+- Gladiator: 12600;16
+- Grand Cherokee: 12600;7
+- Liberty: 12600;3
+- Other: 12600;1
+- Patriot: 12600;14
+- Renegade: 12600;8
+- TJ: 12600;5
+- Wagoneer: 12600;9
+- Wrangler: 12600;11
+Kia:
+- Amanti: 13200;42
+- Borrego: 13200;28
+- Cadenza: 13200;44
+- Forte: 13200;43
+- Forte5: 13200;37
+- K900: 13200;45
+- Magentis: 13200;12
+- Niro: 13200;34
+- Optima: 13200;33
+- Other: 13200;1
+- Rio: 13200;19
+- Rondo: 13200;39
+- Sedona: 13200;40
+- Seltos: 13200;50
+- Sephia: 13200;22
+- Sorento: 13200;24
+- Soul: 13200;29
+- Spectra: 13200;41
+- Sportage: 13200;25
+- Stinger: 13200;35
+- Telluride: 13200;46
+- XCeed: 13200;49
+Lamborghini:
+- Aventador: 14600;11
+- Gallardo: 14600;5
+- "Hurac\xE1n": 14600;12
+- "Murci\xE9lago": 14600;9
+- Other: 14600;1
+- Urus: 14600;13
+Land Rover:
+- Defender: 14800;2
+- Discovery: 14800;3
+- Discovery Sport: 14800;11
+- Freelander: 14800;4
+- LR2: 14800;13
+- LR3: 14800;14
+- LR4: 14800;15
+- Other: 14800;1
+- Range Rover: 14800;5
+- Range Rover Evoque: 14800;10
+- Range Rover Sport: 14800;6
+- Range Rover Velar: 14800;12
+Lexus:
+- CT 200h: 15200;30
+- ES: 15200;51
+- GS: 15200;52
+- GX: 15200;44
+- HS 250h: 15200;45
+- IS: 15200;50
+- IS 350c: 15200;46
+- LFA: 15200;36
+- LS: 15200;53
+- LX: 15200;54
+- NX 200t: 15200;48
+- NX 300h: 15200;56
+- Other: 15200;1
+- RC 350: 15200;40
+- RX: 15200;55
+- SC: 15200;47
+Lincoln:
+- Aviator: 15500;2
+- Continental: 15500;3
+- Corsair: 15500;17
+- LS: 15500;4
+- Mark LT: 15500;14
+- Mark Series: 15500;8
+- MKC: 15500;13
+- MKS: 15500;9
+- MKT: 15500;10
+- MKX: 15500;11
+- MKZ: 15500;12
+- Nautilus: 15500;16
+- Navigator: 15500;6
+- Other: 15500;1
+- Town Car: 15500;7
+- Zephyr: 15500;15
+Lotus:
+- Elise: 15900;5
+- Esprit: 15900;7
+- Evora: 15900;11
+- Exige: 15900;10
+- Other: 15900;1
+MG:
+- MGA: 17300;2
+- MGB: 17300;3
+- Midget: 17300;10
+- Other: 17300;1
+- T-Series: 17300;12
+MINI:
+- Classic Mini: 17500;36
+- Cooper: 17500;4
+- Cooper Classic Clubman: 17500;47
+- Cooper Clubman: 17500;8
+- Cooper Countryman: 17500;5
+- Cooper Paceman: 17500;41
+- Cooper S: 17500;7
+- Cooper S Countryman: 17500;38
+- John Cooper Works: 17500;9
+- John Cooper Works Clubman: 17500;33
+- John Cooper Works Countryman: 17500;40
+- Other: 17500;1
+Maserati:
+- Coupe: 16600;25
+- Ghibli: 16600;14
+- Granturismo: 16600;24
+- Levante: 16600;21
+- Other: 16600;1
+- Quattroporte: 16600;20
+- Spyder: 16600;23
+Maybach:
+- Other: 16700;1
+Mazda:
+- '2': 16800;3
+- '3': 16800;4
+- 3 Sport: 16800;36
+- '323': 16800;5
+- '5': 16800;6
+- '6': 16800;7
+- 6 Sport: 16800;37
+- '626': 16800;8
+- '929': 16800;9
+- B-Series Pickup: 16800;35
+- CX-3: 16800;34
+- CX-30: 16800;42
+- CX-5: 16800;33
+- CX-7: 16800;26
+- CX-9: 16800;27
+- MAZDASPEED 3: 16800;38
+- MAZDASPEED 6: 16800;39
+- MAZDASPEED MX-5 Miata: 16800;40
+- MAZDASPEED Protege: 16800;41
+- Millenia: 16800;24
+- MPV: 16800;13
+- MX-3: 16800;14
+- MX-5: 16800;15
+- MX-6: 16800;16
+- Other: 16800;1
+- Protege: 16800;25
+- RX-7: 16800;19
+- RX-8: 16800;20
+- Tribute: 16800;21
+McLaren:
+- Other: 137;1
+Mercedes-Benz: []
+Mercury: []
+Mitsubishi:
+- 3000 GT: 17700;2
+- Diamante: 17700;32
+- Eclipse: 17700;9
+- Eclipse Cross: 17700;36
+- Endeavor: 17700;3
+- Evolution: 17700;37
+- Galant: 17700;10
+- i-MiEV: 17700;25
+- Lancer: 17700;16
+- Mirage: 17700;34
+- Montero: 17700;17
+- Other: 17700;1
+- Outlander: 17700;18
+- Raider: 17700;38
+- RVR: 17700;39
+Nissan:
+- 200 SX: 18700;43
+- 240 SX: 18700;44
+- 280 ZX: 18700;4
+- 300 ZX: 18700;5
+- 350Z: 18700;6
+- 370Z: 18700;26
+- Altima: 18700;45
+- Armada: 18700;9
+- Cube: 18700;3
+- Frontier: 18700;14
+- GT-R: 18700;49
+- Hardbody: 18700;61
+- Juke: 18700;52
+- Kicks: 18700;69
+- Leaf: 18700;53
+- Maxima: 18700;19
+- Micra: 18700;20
+- Murano: 18700;21
+- NV1500: 18700;62
+- NV200: 18700;54
+- NV2500: 18700;63
+- NV3500: 18700;66
+- Other: 18700;1
+- Other Pickups: 18700;68
+- Pathfinder: 18700;24
+- Pulsar: 18700;58
+- Qashqai: 18700;47
+- Quest: 18700;30
+- Rogue: 18700;64
+- Sentra: 18700;46
+- Skyline: 18700;33
+- Stanza: 18700;67
+- Titan: 18700;37
+- Versa: 18700;65
+- X-Trail: 18700;41
+- Xterra: 18700;51
+Oldsmobile:
+- '442': 18975;12
+- Achieva: 18975;15
+- Alero: 18975;9
+- Aurora: 18975;10
+- Bravada: 18975;2
+- Cutlass: 18975;4
+- Eighty-Eight: 18975;13
+- Intrigue: 18975;11
+- LSS: 18975;16
+- Ninety-Eight: 18975;14
+- Other: 18975;1
+- Silhouette: 18975;6
+- Toronado: 18975;8
+Opel:
+- GT: 19000;13
+- Kadett: 19000;14
+- Manta: 19000;15
+- Other: 19000;1
+Other: []
+Peugeot:
+- '309': 19300;13
+- '403': 19300;50
+- '404': 19300;14
+- '405': 19300;15
+- '504': 19300;18
+- '505': 19300;19
+- Other: 19300;1
+Plymouth:
+- Acclaim: 19800;5
+- Barracuda: 19800;6
+- Breeze: 19800;7
+- Colt: 19800;8
+- Duster: 19800;9
+- Fury: 19800;10
+- Grand Voyager: 19800;4
+- GTX: 19800;11
+- Neon: 19800;12
+- Other: 19800;1
+- Prowler: 19800;3
+- Road Runner: 19800;13
+- Satellite: 19800;14
+- Scamp: 19800;15
+- Sundance: 19800;16
+- Voyager: 19800;2
+Polestar:
+- '1': 4;2
+- '2': 4;3
+- Other: 4;1
+Pontiac:
+- Aztek: 20000;25
+- Bonneville: 20000;4
+- Catalina: 20000;26
+- Fiero: 20000;5
+- Firebird: 20000;6
+- Firefly: 20000;27
+- G3: 20000;3
+- G3 Wave: 20000;19
+- G5: 20000;20
+- G6: 20000;7
+- G8: 20000;21
+- Grand-Am: 20000;8
+- Grand-Prix: 20000;9
+- GTO: 20000;10
+- Le Mans: 20000;28
+- Montana: 20000;11
+- Other: 20000;1
+- Pursuit: 20000;22
+- Solstice: 20000;12
+- Sunbird: 20000;13
+- Sunfire: 20000;14
+- Sunrunner: 20000;29
+- Tempest: 20000;30
+- Torrent: 20000;23
+- Trans Am: 20000;16
+- Trans Sport: 20000;17
+- Vibe: 20000;18
+- Wave: 20000;24
+Porsche:
+- '356': 20100;2
+- '718': 20100;27
+- '911': 20100;29
+- '914': 20100;9
+- '924': 20100;10
+- '928': 20100;11
+- '944': 20100;12
+- '968': 20100;15
+- Boxster: 20100;16
+- Carrera GT: 20100;20
+- Cayenne: 20100;18
+- Cayman: 20100;19
+- Macan: 20100;22
+- Other: 20100;1
+- Panamera: 20100;4
+- Taycan: 20100;30
+RAM:
+- '1500': 267;2
+- '2500': 267;3
+- '3500': 267;4
+- Cargo: 267;5
+- Dakota: 267;8
+- Other: 267;1
+- ProMaster: 267;7
+- ProMaster City: 267;6
+Renault:
+- Alliance: 20700;52
+- Dauphine: 20700;53
+- Encore: 20700;54
+- Fuego: 20700;10
+- Medallion: 20700;55
+- Other: 20700;1
+- Rambler: 20700;51
+Rolls-Royce:
+- Corniche: 21600;3
+- Cullinan: 21600;15
+- Dawn: 21600;14
+- Ghost: 21600;12
+- Other: 21600;1
+- Phantom: 21600;6
+- Silver Dawn: 21600;7
+- Silver Seraph: 21600;8
+- Silver Shadow: 21600;9
+- Silver Spirit: 21600;10
+- Silver Spur: 21600;11
+- Wraith: 21600;13
+Saab:
+- 9-2X: 21800;11
+- 9-3: 21800;5
+- 9-3X: 21800;12
+- 9-5: 21800;6
+- 9-7X: 21800;8
+- '900': 21800;3
+- '9000': 21800;4
+- Other: 21800;1
+Saturn:
+- Astra: 30014;3
+- Aura: 30014;4
+- ION: 30014;5
+- L-Series: 30014;6
+- Other: 30014;1
+- Outlook: 30014;7
+- Relay: 30014;8
+- S-Series: 30014;9
+- Sky: 30014;2
+- VUE: 30014;10
+Scion:
+- FR-S: 39;6
+- iM: 39;8
+- iQ: 39;5
+- Other: 39;1
+- tC: 39;2
+- xA: 39;7
+- xB: 39;3
+- xD: 39;4
+Shelby:
+- Charger: 30015;4
+- Cobra: 30015;3
+- CSX: 30015;5
+- Dakota: 30015;6
+- Daytona: 30015;7
+- GLHS: 30015;8
+- Lancer: 30015;9
+- Mustang GT: 30015;10
+- Other: 30015;1
+- Series 1: 30015;11
+- Viper: 30015;12
+Smart:
+- ForTwo: 23000;4
+- Other: 23000;1
+Subaru:
+- Ascent: 23500;22
+- B9 Tribeca: 23500;4
+- Baja: 23500;5
+- BRZ: 23500;12
+- Forester: 23500;7
+- Impreza: 23500;8
+- Impreza WRX STi: 23500;20
+- Legacy: 23500;10
+- Other: 23500;1
+- Outback: 23500;13
+- SVX: 23500;14
+- Tribeca: 23500;2
+- WRX: 23500;19
+- XV Crosstrek: 23500;21
+Suzuki:
+- Aerio: 23600;15
+- Equator: 23600;28
+- Esteem: 23600;16
+- Grand Vitara: 23600;6
+- Kizashi: 23600;11
+- Other: 23600;1
+- Sidekick: 23600;25
+- Swift: 23600;19
+- SX4: 23600;23
+- Verona: 23600;26
+- Vitara: 23600;20
+- X-90: 23600;22
+- XL7: 23600;27
+Tesla:
+- Model 3: 135;5
+- Model S: 135;3
+- Model X: 135;4
+- Model Y: 135;6
+- Other: 135;1
+Toyota:
+- 4-Runner: 24100;2
+- '86': 24100;57
+- Avalon: 24100;3
+- C-HR: 24100;48
+- Camry: 24100;6
+- Celica: 24100;8
+- Corolla: 24100;9
+- Echo: 24100;50
+- FJ Cruiser: 24100;51
+- Highlander: 24100;15
+- Land Cruiser: 24100;19
+- Matrix: 24100;18
+- Mirai: 24100;46
+- MR 2: 24100;22
+- Other: 24100;1
+- Other Pickups: 24100;55
+- Paseo: 24100;23
+- Previa: 24100;26
+- Prius: 24100;27
+- Prius c: 24100;58
+- Prius Prime: 24100;59
+- Prius V: 24100;52
+- RAV 4: 24100;28
+- Sequoia: 24100;29
+- Sienna: 24100;30
+- Solara: 24100;53
+- Supra: 24100;33
+- T100: 24100;56
+- Tacoma: 24100;37
+- Tercel: 24100;34
+- Tundra: 24100;35
+- Venza: 24100;54
+- Yaris: 24100;36
+Triumph:
+- Other: 24400;1
+- Spitfire: 24400;4
+- TR6: 24400;8
+Volkswagen:
+- '181': 25200;2
+- Arteon: 25200;64
+- Atlas: 25200;74
+- Beetle: 25200;10
+- Bus / Vanagon: 25200;72
+- Cabrio: 25200;67
+- CC: 25200;19
+- Eos: 25200;41
+- EuroVan: 25200;68
+- GLI: 25200;69
+- Golf: 25200;14
+- Golf R: 25200;80
+- GTI: 25200;70
+- Jetta: 25200;16
+- Karmann Ghia: 25200;18
+- New Beetle: 25200;24
+- Other: 25200;1
+- Passat: 25200;25
+- Phaeton: 25200;26
+- Rabbit: 25200;73
+- Routan: 25200;8
+- Tiguan: 25200;54
+- Touareg: 25200;36
+- Transporter: 25200;71
+Volvo:
+- '240': 25100;2
+- '740': 25100;12
+- '850': 25100;18
+- '940': 25100;20
+- '960': 25100;23
+- C30: 25100;39
+- C70: 25100;25
+- Other: 25100;1
+- S40: 25100;27
+- S60: 25100;28
+- S60 Cross Country: 25100;42
+- S70: 25100;29
+- S80: 25100;30
+- S90: 25100;31
+- V40: 25100;32
+- V40 Cross Country: 25100;41
+- V50: 25100;33
+- V60: 25100;16
+- V60 Cross Country: 25100;43
+- V70: 25100;34
+- V90: 25100;35
+- V90 Cross Country: 25100;44
+- XC40: 25100;45
+- XC60: 25100;40
+- XC70: 25100;36
+- XC90: 25100;37

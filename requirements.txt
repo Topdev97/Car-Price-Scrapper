@@ -1,0 +1,13 @@
+Web scraping/Analyzer/Notifier tool/app
+
+I need an experienced resource or a team who can build the following:
+1. Scrape several websites such as kijijiautos.ca, AutoTrader.ca, carpages.ca for any new listings or new listings based on filters set up for year, make, model, price, location, description as soon as that listing is available or on certain intervals
+2. Store a link along with listing details (year, make, model, price, etc) to the above listing and notify via email/txt/msg(whatsup or similar) about the new listings
+3. Build a tool that analyzes the new listing and alert if the price is within a certain pre configured range or notify on all new listings (configurable).
+4. The end product should be deployed in Azure cloud but proof of concept can be done on a local resource.
+
+I'd like to have a draft of the app within a week and final product within a few weeks completed.
+
+Milestone1: Scrape kijijiautos.ca website for any new listings, save results, and email the new listings.
+
+Milestone2: Deploy to Azure Cloud with documentation on deployment steps.
